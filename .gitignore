@@ -1,0 +1,11 @@
+.clasp.json
+.env
+.env.*
+credentials*.json
+config.local.*
+node_modules/
+__pycache__/
+dist/
+*.xpi
+*.sqlite*
+*.log

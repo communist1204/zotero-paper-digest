@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "论文精选 · 阅读档案草稿",
+  "version": "1.0.1",
+  "description": "在 Zotero 个人文库中新保存的论文 PDF 下创建可编辑的 Markdown 阅读档案。",
+  "author": "Paper Digest contributors",
+  "applications": {
+    "zotero": {
+      "id": "paper-digest-reading-draft@example.invalid",
+      "strict_min_version": "10.0",
+      "strict_max_version": "10.0.*"
+    }
+  }
+}
